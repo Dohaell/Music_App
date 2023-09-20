@@ -36,8 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   firebase_core: ^2.15.0
   firebase_auth: ^4.7.2
-  just_audio: ^0.9.34
+  just_audio: ^0.9.35
   rxdart: ^0.27.7
+  get: ^4.6.5
 
 dev_dependencies:
   flutter_test:
@@ -63,6 +64,12 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/image1.jpg
+    - assets/image/
+    - assets/image/jasonmraz.jpg
+    - assets/image/ladygaga.jpg
+    - assets/image/leesuhyun.jpeg
+    - assets/image/passenger.jpg
+    - assets/mp3/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
